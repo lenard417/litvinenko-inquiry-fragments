@@ -6,6 +6,13 @@ Dr Harrison stated that the best estimate of intake (primary cause of death) was
   ![alt text](https://raw.githubusercontent.com/lenard417/temp/master/img/Witness%20statement%20of%20Dr%20John%20Harrison%20INQ007633.png)
 )
 
+There was the evidence of the two pathologists, Dr Cary and Dr Swift, who conducted Mr Litvinenko’s post mortem at the Royal London Hospital on 1 December 2006. Special safety precautions were taken because of the radioactivity that was then still present in Mr Litvinenko’s body. Even so, Dr Cary stated that the procedure had been: “one of the most dangerous postmortem examinations ever undertaken in the Western world”.
+( Litvinenko Inquiry 3.170 ![pdf](https://github.com/lenard417/temp/raw/master/docs/Litvinenko-Inquiry-Report-web-version.pdf)
+, INQ003187, 	Witness statement of Dr Benjamin Swift
+![pdf](https://github.com/lenard417/temp/raw/master/docs/INQ003187%2C%20Witness%20statement%20of%20Dr%20Benjamin%20Swift.pdf)
+![alt text](https://github.com/lenard417/temp/raw/master/img/INQ003187%2C%20Witness%20statement%20of%20Dr%20Benjamin%20Swift.png)
+)
+
 ## Curious incident. EI-DNM aircraft contamination tests
 An episode from november-december 2006 - EI-DNM aircraft contamination tests.
 
