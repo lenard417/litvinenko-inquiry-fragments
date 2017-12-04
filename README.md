@@ -16,8 +16,21 @@ There was the evidence of the two pathologists, Dr Cary and Dr Swift, who conduc
 ## Curious incident. EI-DNM aircraft contamination tests
 An episode from november-december 2006 - EI-DNM aircraft contamination tests.
 
-There is an inconsistency between the assertion made by the Russian authorities on 1 December 2006 that both planes had been tested and found to be clean, and the documents received in 2013 suggesting that the results of the Russian testing of one of the planes had been positive.
-DI Mascall stated in evidence that these documents had never been formally provided to the Metropolitan Police Service, and that he saw them for the first time in 2013.
+On 1 December 2006, an official at the British Embassy in Moscow named Mr Knott notified both the Russian authorities and Transaero of the concern as to possible contamination of the aircraft, and of the advice that they should be tested before they next flew. On the same day, Mr Knott was informed both by officials in the office of Mr Gennadiy Onishchenko, the then Russian Chief Public Health Officer, and by Mr Alexander Tarrenets, the Deputy Director of Security for Transaero, that Mascall both planes had in fact already been tested and that no contamination had been found.
+
+
+In fact, aircraft **EI-DNM** flew into Heathrow on that day, 1 December 2006, and was tested for contamination by **AWE** scientists. They discovered **secondary alpha radiation** contamination in the area of the seats on which Mr Kovtun and Mr Lugovoy had sat on the flight on 18 October.
+
+**EI-DDK** was in fact scheduled to fly to London on the next day, 2 December. That flight, however, was cancelled. Transaero explained at the time that the cancellation was due to disruption to their scheduling caused by the testing of **EI-DNM** in London.
+
+It appears that **EI-DDK** did not in fact return to the UK for some time after that, and that it was **never** tested by UK authorities.
+
+There is an inconsistency between the assertion made by the Russian authorities on 1 December 2006 that both planes had been tested and found to be clean, and the documents received in 2013 suggesting that the results of the **Russian testing of one of the planes had been positive**.
+**DI Mascall stated in evidence** that these documents had **never been formally provided** to the Metropolitan Police Service, and that he **saw them for the first time in 2013**.
+
+There is also a conflict between the initial assertion by the Russians that EI-DNM was **not** contaminated, and the outcome of the tests conducted on that aircraft by **AWE**. Moreover, the delay of seven years in the production of the Russian test results remains unexplained. In the circumstances, I do not consider that any weight can be placed on what the Russian authorities have said about the testing of either of these aircraft, in particular the assertion that **EI-DDK** was tested and found to be clean.
+
+
   ( Litvinenko Inquiry 6.70 ![pdf](https://github.com/lenard417/litvinenko-inquiry-fragments/raw/master/docs/Litvinenko-Inquiry-Report-web-version.pdf)
   , ![pdf1](https://github.com/lenard417/litvinenko-inquiry-fragments/raw/master/docs/transaero%20clean%20plane.pdf)
   , ![pdf2](https://github.com/lenard417/litvinenko-inquiry-fragments/raw/master/docs/transaero%20clean%20plane-2.pdf)
@@ -57,6 +70,7 @@ No comparable levels of contamination were found in any of the other places that
 
   ![alt text](https://github.com/lenard417/litvinenko-inquiry-fragments/raw/master/img/INQ017934-teapot-contamination.png)
   ![alt text](https://github.com/lenard417/litvinenko-inquiry-fragments/raw/master/img/INQ017911-teapot-contamination.png)
+  ![alt text](https://github.com/lenard417/litvinenko-inquiry-fragments/raw/master/img/pine-bar-contamination-table.png)
 
   ![Pine Bar contamination pdf](https://github.com/lenard417/litvinenko-inquiry-fragments/raw/master/docs/INQ017911-pine-bar-contamination.pdf)
 
