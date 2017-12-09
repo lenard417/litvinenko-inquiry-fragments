@@ -95,7 +95,48 @@ The deficiencies in the accounts that have been provided by Mr Lugovoy and Mr Ko
   ( Litvinenko Inquiry 8.88 ![pdf](https://github.com/lenard417/litvinenko-inquiry-fragments/raw/master/docs/Litvinenko-Inquiry-Report-web-version.pdf)
 )
 
-## Scenes of contamination
+## Scenes of contamination aka the polonium trail
+
 Various sites were identified as having been contaminated in the days and weeks following Mr Litvinenko’s death – hotel rooms, restaurants, aircraft, offices. Detective Inspector (DI) Mascall said that the task that faced the police and the forensic scientists in this respect was unprecedented, certainly in the United Kingdom (UK). In the course of his evidence he explained the system of sequential testing that was adopted involving the police, scientists from the Atomic Weapons Establishment (AWE) and scientists from the Health Protection Agency (HPA).
   ( Litvinenko Inquiry 6.8 ![pdf](https://github.com/lenard417/litvinenko-inquiry-fragments/raw/master/docs/Litvinenko-Inquiry-Report-web-version.pdf)
 )
+
+
+Forensic scientists were sent to conduct tests for alpha radiation at a series of locations across London and, subsequently, **beyond**. The results demonstrated widespread radioactive contamination at locations that had been linked to Mr Lugovoy, Mr Kovtun and Mr Litvinenko in a **period** of a little over two weeks from mid October until the onset of Mr Litvinenko’s fatal illness in early November.
+
+
+I shall refer not only to the extensive witness and documentary evidence that has been adduced, but also to the body of evidence arising from the testing for radioactive contamination – the evidence that has become popularly known as **‘the
+polonium trail’**.
+
+
+To obtain forensic evidence of the contamination for the purposes of their investigation. Detective Inspector (DI) Mascall said that the task that faced the police and the forensic scientists in this respect was unprecedented, certainly in the United Kingdom (UK). In the course of his evidence he explained the system of sequential testing that was adopted involving the police, scientists from the **Atomic Weapons** Establishment (AWE) and scientists from the Health Protection Agency (HPA).
+
+
+At some point during the afternoon of 16 October 2006, a meeting took place between Mr Lugovoy, Mr Kovtun, Mr Litvinenko and Mr Reilly. The meeting was held at Mr Reilly’s offices at 25 Grosvenor Street, London. Evidence of extensive polonium contamination of the boardroom that was discovered after Mr Litvinenko’s death.
+![alt text](https://github.com/lenard417/litvinenko-inquiry-fragments/raw/master/img/contamination-boardroom.png)
+
+
+On october 16, Mr Lugovoy and Mr Kovtun spent the evening having dinner with Dr Shadrin at the Pescatori restaurant in Dover Street. Then they went on to a bar near the Best Western Hotel named Dar Marrakesh, where a bill was paid with the same credit card at 11.05pm. The bill was for £9.00, which appeared to reflect the purchase of a shisha pipe.
+
+
+The Pescatori restaurant and Dar Marrakesh were both found to have secondary contamination. At the Pescatori, the table with the highest level of contamination was table 17. At Dar Marrakesh, one of the shisha pipes was found to be contaminated.
+
+
+Mr Lugovoy and Mr Kovtun spent the night at the Best Western Hotel. As I have already said, Mr Lugovoy had room 107. Mr Kovtun’s room, which had not been available earlier, was room 308. As we shall see, this was in fact the only night that the two men spent at the Best Western Hotel.
+
+
+Both rooms were subsequently tested and were found to contain extensive contamination. Room 107 was more heavily contaminated than room 308. A1 gave her opinion as to the interpretation of the readings taken in these two rooms. She said that the most significant result of this testing was the discovery of what she judged to be primary contamination in the u-bend of the sink in the bathroom of room 107. She explained that the scientists had opened the **u-bend** and found the contamination on detritus such as hair, etc. caught in the u-bend. The testing of the room had taken place on 22 December – **more than two months after** Mr Lugovoy had stayed in it. A1 said that the repeated use of the sink that would have taken place during that period explained the fact that relatively low readings were taken in the area of the sink itself – from where the polonium would have been washed away – in contrast to the sediment in the u-bend, where the polonium would have been caught. She added that even in the u-bend the initial levels of contamination may have been considerably higher. In a nutshell, A1’s view was that the contamination in the u-bend was consistent with **polonium being poured down the sink plughole**.
+
+
+On October 17, Mr Lugovoy and Mr Kovtun went to The Golden Dragon restaurant, Cafe Boheme and Hey Jo nightclub. They were all tested for alpha radiation. No contamination was found at the Golden Dragon or at Cafe Boheme. Secondary contamination was, however, found at Hey Jo nightclub.
+
+
+They arrived at Mr Berezovsky’s offices on October 31 - November 1st. Secondary contamination was found in a number of places. One such place was the photocopier that Mr Litvinenko used when he visited the offices after meeting Mr Lugovoy and Mr Kovtun at the Pine Bar on 1 November 2006. The highest readings, however, were taken from ‘sofa 1’, the sofa on which Mr Lugovoy had been sitting at his meeting with Mr Berezovsky.
+
+Mr Lugovoy occupied room 848 at the Sheraton for the nights of 25, 26 and 27 October 2006. DI Mascall gave evidence about the radioactive contamination found in the hotel. He said that the readings taken there were the **highest found** in the entire investigation.
+
+In contrast to the Best Western, however, the readings taken in the bathroom sink and in the disposal pipe from the sink were not especially high. Rather, the highest readings in room 848 were found in the bathroom bin, in particular on one area of the base of the plastic inner casing of the bin. A1 was very confident that these readings were evidence of primary contamination. The other notable feature of the pattern of contamination at the Sheraton Hotel was the contamination found in the hotel laundry. Two towels found in the laundry also gave such high radiation readings that A1 considered them to be consistent with primary contamination. In their closing submissions, Mr Horwell QC and Mr Emmerson QC suggested that the pattern of contamination was consistent with an accidental spillage, perhaps followed by an attempt to clean up and/or dispose of the solution.
+
+
+The German authorities conducted widespread tests for radiation in **Hamburg** following Mr Litvinenko’s death. Secondary contamination was discovered in many of the places that Mr Kovtun had visited during his brief stay (28 October - 1 November).
+Secondary contamination was found in Marina Wall’s flat, where Mr Kovtun had spent his first and last night in Hamburg, and also in the BMW car in which she had picked him up from the airport.Secondary contamination was also found in Elenora Wall’s house. No contamination was found at the Aliens’ Registration Office, although a slightly raised reading was taken under the passport photograph in Mr Kovtun’s passport.Secondary contamination was also found on the bed in D3’s flat, where Mr Kovtun had spent the night of Monday 30 October.
